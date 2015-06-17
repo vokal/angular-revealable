@@ -1,0 +1,23 @@
+{
+  "name": "angular-revealable",
+  "homepage": "https://github.com/vokal/angular-revealable",
+  "authors": [
+    {
+      "name": "Vokal",
+      "email": "webdevelopers@vokal.io"
+    }
+  ],
+  "description": "Angular directive to make revealing password input easy",
+  "license": "MIT",
+  "main": "src/revealable.js",
+  "dependencies": {
+    "fontawesome": "^4.3.0"
+  },
+  "devDependencies": {
+    "angular": "1.x"
+  },
+  "ignore": [
+    "grunt/",
+    "spec/"
+  ]
+}
